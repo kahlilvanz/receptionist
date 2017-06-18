@@ -1,1 +1,9 @@
 # Place Ignored Files and Directories Here
+*.PJT
+*.PJX
+*.CDX
+*.DBF
+*.FPT
+*.ERR
+*.BAK
+*.FXP
