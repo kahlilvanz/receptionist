@@ -1,0 +1,4 @@
+*! App Startup Configuration File
+SCREEN = OFF
+RESOURCE = OFF
+HELP = OFF
